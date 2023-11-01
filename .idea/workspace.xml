@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8aef363-1fa9-4364-b9be-1ba3f4adebd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/AbstractSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/Dwelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/DwellingFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/Flat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/OfficeDwelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Bildings/impl/OfficeFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Interfaces/Buildings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Interfaces/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/Interfaces/Space.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lab1/DwellingFloorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8aef363-1fa9-4364-b9be-1ba3f4adebd2" name="Changes" comment="Lab3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,11 +76,24 @@
       <updated>1698477457476</updated>
       <workItem from="1698477458501" duration="2151000" />
       <workItem from="1698507364541" duration="410000" />
-      <workItem from="1698870152944" duration="3368000" />
+      <workItem from="1698870152944" duration="3824000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab3">
+      <option name="closed" value="true" />
+      <created>1698873964605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698873964605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3" />
   </component>
 </project>
